@@ -143,9 +143,12 @@
     "platform": "feishu",
     "layout": "markdown",
     "fallback_layout": "markdown",
-    "languages": ["zh"]
+    "languages": null
   },
-  "languages": ["zh"],
+  "languages": [
+    "zh",
+    "en"
+  ],
   "email": {
     "enabled": false,
     "smtp_server": "smtp.example.com",
