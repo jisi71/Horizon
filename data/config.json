@@ -2,7 +2,7 @@
   "version": "1.0",
   "ai": {
     "provider": "openai",
-    "model": "deepseek-v3",
+    "model": "deepseek-chat",
     "api_key_env": "DEEPSEEK_API_KEY",
     "base_url": "https://api.deepseek.com/v1",
     "temperature": 0.3,
@@ -40,12 +40,6 @@
         "name": "Anthropic News",
         "url": "https://www.anthropic.com/rss.xml",
         "enabled": true,
-        "category": "ai"
-      },
-      {
-        "name": "DeepSeek Blog",
-        "url": "https://api-docs.deepseek.com/news/rss.xml",
-        "enabled": false,
         "category": "ai"
       },
       {
@@ -117,16 +111,15 @@
       ],
       "fetch_comments": 5
     },
-    "github": {
-      "enabled": true,
-      "trending": {
-        "enabled": true,
-        "languages": ["python", "typescript", "javascript"],
-        "since": "daily"
-      }
-    },
+    "github": [],
     "twitter": {
-      "enabled": false
+      "enabled": false,
+      "users": [],
+      "fetch_limit": 10,
+      "fetch_reply_text": false,
+      "max_replies_per_tweet": 3,
+      "max_tweets_to_expand": 10,
+      "reply_min_likes": 5
     },
     "telegram": {
       "enabled": false
@@ -154,6 +147,14 @@
   },
   "languages": ["zh"],
   "email": {
-    "enabled": false
+    "enabled": false,
+    "smtp_server": "smtp.example.com",
+    "smtp_port": 465,
+    "imap_server": "imap.example.com",
+    "imap_port": 993,
+    "email_address": "disabled@example.com",
+    "sender_name": "Horizon Daily",
+    "subscribe_keyword": "SUBSCRIBE",
+    "unsubscribe_keyword": "UNSUBSCRIBE"
   }
 }
