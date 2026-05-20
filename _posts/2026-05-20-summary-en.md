@@ -5,541 +5,559 @@ date: 2026-05-20
 lang: en
 ---
 
-> From 37 items, 24 important content pieces were selected
+> From 37 items, 25 important content pieces were selected
 
 ---
 
-1. [Google Redesigns Search Box with AI Answers](#item-1) ⭐️ 9.0/10
-2. [Google I/O 2026 Unveils New AI Advancements](#item-2) ⭐️ 9.0/10
-3. [Qwen3.7-Max: Alibaba's New Frontier Agent Model](#item-3) ⭐️ 8.0/10
-4. [SpiderMonkey Deprecates asm.js, Marking End of an Era](#item-4) ⭐️ 8.0/10
-5. [C's Ubiquitous Undefined Behavior](#item-5) ⭐️ 8.0/10
-6. [Google Launches Gemini 3.5 Flash with 3x Price Hike](#item-6) ⭐️ 8.0/10
-7. [Virtual Museum Showcases Nearly Every Operating System](#item-7) ⭐️ 8.0/10
-8. [Anna's Archive Hit with $19.5M Default Judgment and Domain Seizure](#item-8) ⭐️ 8.0/10
-9. [Google to Deprecate Gemini CLI, Replace with Antigravity CLI](#item-9) ⭐️ 8.0/10
-10. [Lessons from 130K Lines of Rust with AI Assistance](#item-10) ⭐️ 8.0/10
-11. [Meta Blocks Human Rights Accounts in Arabia and UAE](#item-11) ⭐️ 7.0/10
-12. [130M Europeans to Ditch Visa/Mastercard for Wero by 2026](#item-12) ⭐️ 7.0/10
-13. [FiveThirtyEight Archive Launched After Disney Removal](#item-13) ⭐️ 7.0/10
-14. [Students Boo AI-Praising Commencement Speakers](#item-14) ⭐️ 7.0/10
-15. [Infomaniak Transfers Control to Foundation for Data Privacy](#item-15) ⭐️ 7.0/10
-16. [Remove-AI-Watermarks: Tool to Strip AI Watermarks](#item-16) ⭐️ 7.0/10
-17. [Mistral AI acquires Emmi AI for industrial AI push](#item-17) ⭐️ 7.0/10
-18. [OpenAI Adopts Google's SynthID Watermark for AI Images](#item-18) ⭐️ 7.0/10
-19. [Allen AI Releases More Efficient OlmoEarth v1.1](#item-19) ⭐️ 7.0/10
-20. [Map of Metal: Interactive Genre Visualization](#item-20) ⭐️ 6.0/10
-21. [Japan's mass hay fever traced to 1950s reforestation project](#item-21) ⭐️ 6.0/10
-22. [OpenAI Expands Education for Countries Initiative](#item-22) ⭐️ 6.0/10
-23. [OpenAI Launches Multi-Year AI Partnership with Singapore](#item-23) ⭐️ 6.0/10
-24. [llm-gemini 0.32 Adds Gemini 3.5 Flash Support](#item-24) ⭐️ 6.0/10
+1. [Google Overhauls Search Box with Gemini AI Integration](#item-1) ⭐️ 9.0/10
+2. [Google I/O 2026 Unveils New AI Developments](#item-2) ⭐️ 9.0/10
+3. [Google I/O 2026: Gemini 3.5 Flash, Omni, Spark, Antigravity 2.0](#item-3) ⭐️ 9.0/10
+4. [Meta Blocks Human Rights Accounts in Arabia and UAE](#item-4) ⭐️ 8.0/10
+5. [Qwen3.7-Max: New Proprietary Model with SOTA Non-Hallucination](#item-5) ⭐️ 8.0/10
+6. [130M Europeans to Switch to Sovereign Payment Wero by 2026](#item-6) ⭐️ 8.0/10
+7. [Mozilla Deprecates Asm.js, Urges Migration to WebAssembly](#item-7) ⭐️ 8.0/10
+8. [C's Undefined Behavior: More Pervasive Than You Think](#item-8) ⭐️ 8.0/10
+9. [Anna's Archive Hit with $19.5M Default Judgment and Domain Takedown](#item-9) ⭐️ 8.0/10
+10. [Virtual Museum Showcases Nearly Every Operating System](#item-10) ⭐️ 8.0/10
+11. [Google Deprecates Gemini CLI, Replaces with Antigravity CLI](#item-11) ⭐️ 8.0/10
+12. [Mistral AI acquires Emmi AI for industrial engineering](#item-12) ⭐️ 8.0/10
+13. [Lessons from 100K Lines of Rust with AI](#item-13) ⭐️ 8.0/10
+14. [Google fights manipulation of AI search results](#item-14) ⭐️ 7.0/10
+15. [Curated Index of Archived FiveThirtyEight Articles](#item-15) ⭐️ 7.0/10
+16. [Japan's Post-War Reforestation Blamed for Mass Hay Fever](#item-16) ⭐️ 7.0/10
+17. [College students boo AI-praising commencement speakers](#item-17) ⭐️ 7.0/10
+18. [Remove-AI-Watermarks Tool Sparks Debate on Ethics and Privacy](#item-18) ⭐️ 7.0/10
+19. [OpenAI Integrates Google's SynthID Watermark for AI Images](#item-19) ⭐️ 7.0/10
+20. [OpenAI Launches Multi-Year Partnership with Singapore](#item-20) ⭐️ 7.0/10
+21. [OlmoEarth v1.1: More Efficient Earth Observation Models](#item-21) ⭐️ 7.0/10
+22. [Interactive Map of Metal Music Genres Revived in HTML5](#item-22) ⭐️ 6.0/10
+23. [Qian Xuesen's Imprisonment: America's Strategic Blunder](#item-23) ⭐️ 6.0/10
+24. [Infomaniak Transfers Voting Rights to Foundation for Privacy](#item-24) ⭐️ 6.0/10
+25. [OpenAI Expands Education for Countries Program](#item-25) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Google Redesigns Search Box with AI Answers](https://blog.google/products-and-platforms/products/search/search-io-2026/) ⭐️ 9.0/10
+## [Google Overhauls Search Box with Gemini AI Integration](https://blog.google/products-and-platforms/products/search/search-io-2026/) ⭐️ 9.0/10
 
-At Google I/O 2026, Google announced a fundamental redesign of its search box, integrating AI-generated answers (powered by Gemini) directly into search results, reducing the prominence of traditional blue links. This shift could drastically reduce organic traffic to websites, as users may get answers without clicking through. It also raises concerns about the reliability of AI-generated information and the future of web publishing. The AI-generated answers appear above traditional search results and include citations to sources. Google has been testing AI Overviews since 2024, but this redesign marks a permanent, default integration for all users.
+Google announced a major overhaul of its search box at Google I/O 2026, integrating its Gemini AI model to provide direct answers instead of traditional links. This change reduces reliance on web links and aims to deliver faster, more conversational search results. This shift could fundamentally reshape web traffic patterns, as Google may send fewer visitors to external sites, a phenomenon known as 'Google Zero'. It also raises concerns about trust in AI-generated answers and the potential loss of unbiased information sources. The new search box uses Gemini to generate direct answers, with links to sources still available but less prominent. The feature has been criticized for accuracy issues and potential reduction in traffic to websites, as seen with earlier AI Overviews.
 
 hackernews · Google AI Blog · May 19, 18:34 · [Discussion](https://news.ycombinator.com/item?id=48197370)
 
-**Background**: Google Search has traditionally returned a list of links ("10 blue links") that users click to visit websites. With the rise of large language models (LLMs) like ChatGPT, users increasingly turn to AI for direct answers, threatening Google's ad revenue model. Google's Gemini model now powers these AI-generated answers, aiming to keep users within Google's ecosystem.
+**Background**: Google Search has traditionally returned a list of links to web pages. AI Overviews, introduced earlier, already provided AI-generated summaries. The new search box goes further by making AI answers the primary result, reflecting Google's push to compete with LLM-based search tools like ChatGPT.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://searchengineland.com/new-google-search-generative-ai-experience-413533">The new Google search generative experience: Here's what it looks like</a></li>
-<li><a href="https://www.androidheadlines.com/2024/05/google-search-offering-ai-generated-answers-to-everyone.html">Google Search offering AI - generated answers to everyone</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Gemini_(language_model)">Gemini (language model) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gemini_(language_model)">Gemini (language model ) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AI_Overviews">AI Overviews - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed skepticism about trusting LLM-generated facts, with one user noting they prefer primary sources and distrust AI outputs involving numbers. Another user recalled when "Google it" ended debates, worrying that Google now wants to be the conversation itself, potentially introducing bias. Some also noted their own search usage has dropped over 50% as they turn to LLMs.
+**Discussion**: Community comments express skepticism about trusting LLM-generated facts, with users preferring primary sources. Some worry about 'Google Zero' reducing traffic to other sites, while others note their own search usage has dropped due to LLMs. There is nostalgia for the original simple search box.
 
-**Tags**: `#Google`, `#search`, `#AI`, `#LLM`, `#web`
+**Tags**: `#Google`, `#AI`, `#search`, `#Gemini`, `#web traffic`
 
 ---
 
 <a id="item-2"></a>
-## [Google I/O 2026 Unveils New AI Advancements](https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/) ⭐️ 9.0/10
+## [Google I/O 2026 Unveils New AI Developments](https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/) ⭐️ 9.0/10
 
-At Google I/O 2026, Google announced a series of new AI features and tools aimed at making AI more helpful for everyone, as detailed on the official Google blog. This event is significant because Google I/O is a major industry event that sets the direction for AI development, and these announcements could shape how AI is integrated into everyday products and services. The announcements were made at Google I/O 2026, and the official blog post highlights a collection of updates, though specific technical details are not provided in the summary.
+Google I/O 2026 announced a series of new AI developments aimed at making AI more helpful for everyone, as detailed on the official Google Blog. This event signals a paradigm shift in AI accessibility, impacting developers and end-users by integrating AI more deeply into everyday tools and workflows. The announcement includes new developer tools and AI features, though specific technical details are not provided in the summary. The event is a major industry gathering with high relevance to software engineering and AI/ML.
 
 rss · Google AI Blog · May 19, 17:45
 
-**Background**: Google I/O is Google's annual developer conference where the company showcases new technologies and updates to its platforms. The 2026 edition focused on AI advancements, continuing Google's push to integrate AI across its ecosystem.
+**Background**: Google I/O is Google's annual developer conference where the company showcases new technologies and updates. The 2026 edition focuses on making AI more helpful and accessible, continuing Google's push to integrate AI across its products.
 
-**Tags**: `#Google I/O`, `#AI`, `#Technology`, `#Announcements`
+**Tags**: `#Google I/O`, `#AI`, `#Machine Learning`, `#Developer Tools`
 
 ---
 
 <a id="item-3"></a>
-## [Qwen3.7-Max: Alibaba's New Frontier Agent Model](https://qwen.ai/blog?id=qwen3.7) ⭐️ 8.0/10
+## [Google I/O 2026: Gemini 3.5 Flash, Omni, Spark, Antigravity 2.0](https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash) ⭐️ 9.0/10
 
-Alibaba released Qwen3.7-Max, a proprietary large language model optimized for agentic workloads, featuring a 1M token context window and state-of-the-art non-hallucination rates on the AA-omniscience benchmark. This model offers a compelling combination of speed, cost, and reliability, making it a strong contender for production agent deployments and challenging existing proprietary models from US vendors. Qwen3.7-Max is a proprietary model with explicit chain-of-thought reasoning, ranking #13 overall on Arena's Text leaderboard with an Elo score of 1,475, and excelling in math, coding, and expert prompts.
+At Google I/O 2026, Google announced Gemini 3.5 Flash, a new fast reasoning model; Omni (codenamed NanoBanana for Video), a video generation tool; Spark, a background AI agent for automating tasks across apps; and Antigravity 2.0, an updated agentic coding app with a desktop app, CLI tool, and SDK. These announcements represent significant advancements in Google's AI ecosystem, from faster and more capable models to practical tools for developers and end-users, potentially reshaping how AI is integrated into daily workflows and application development. Gemini 3.5 Flash is priced at $1.50 per million input tokens and $9.00 per million output tokens, a significant increase from previous Flash models. Antigravity 2.0 introduces a standalone desktop app that allows orchestrating multiple agents in parallel, along with a CLI tool and SDK for custom workflows.
 
-hackernews · kevinsimper · May 20, 10:35 · [Discussion](https://news.ycombinator.com/item?id=48205626)
+rss · Latent Space · May 20, 03:34
 
-**Background**: Large language models often suffer from hallucinations, generating plausible but incorrect information. Agentic AI design patterns, such as adding verification artifacts after external actions, help mitigate this by catching silent state drift. Qwen3.7-Max aims to set a new standard for reliability in agent workflows.
+**Background**: Google I/O is Google's annual developer conference where it showcases new technologies and products. Gemini is Google's family of large language models, with Flash variants optimized for speed and cost. Antigravity is Google's agentic coding tool, similar to GitHub Copilot but focused on autonomous task execution. Spark is a new always-on agent that connects to apps like Gmail and Docs to automate tasks in the background.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.alibabacloud.com/blog/alibaba-unveils-new-ai-chip-flagship-model-and-rebuilt-cloud-stack-ai-for-agentic-era_603151">Alibaba Unveils New AI Chip, Flagship Model, and Rebuilt ...</a></li>
-<li><a href="https://benchlm.ai/models/qwen3-7-max">Qwen3.7 Max Benchmarks 2026: Scores, Rankings & Performance</a></li>
-<li><a href="https://www.buildfastwithai.com/blogs/qwen3-7-max-preview-alibaba-2026">Qwen3.7 Max Preview: Arena Ranks, Features & What's Next</a></li>
+<li><a href="https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/">Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026 | TechCrunch</a></li>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/">I/O 2026 developer highlights: Antigravity, Gemini API, AI Studio</a></li>
+<li><a href="https://www.mindstudio.ai/blog/what-is-gemini-spark-google-24-7-agent">What Is Gemini Spark ? Google's 24/7 Agent That Learns... | MindStudio</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters praised Qwen3.7-Max for hitting the sweet spot of cheap, fast, and good, with one noting its SOTA non-hallucination rate. Some expressed desire for US-domiciled access for production workloads, while others shared practical agent patterns like adding verification artifacts after external actions.
+**Discussion**: Community comments on Hacker News show mixed reactions: some users discuss pricing increases (Gemini 3.5 Flash is 3x more expensive than 2.5 Flash), while others share technical inferences about model parameters and performance. There is also discussion about model capabilities, with one user noting that Gemini 3.5 Flash generated an animated SVG with fewer tokens than Gemini 3.1 Pro.
 
-**Tags**: `#AI`, `#LLM`, `#Qwen`, `#Agent`, `#Model Release`
+**Tags**: `#Google I/O`, `#Gemini`, `#AI`, `#machine learning`, `#announcement`
 
 ---
 
 <a id="item-4"></a>
-## [SpiderMonkey Deprecates asm.js, Marking End of an Era](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html) ⭐️ 8.0/10
+## [Meta Blocks Human Rights Accounts in Arabia and UAE](https://www.alqst.org/ar/posts/1190) ⭐️ 8.0/10
 
-SpiderMonkey, Mozilla's JavaScript and WebAssembly engine, has announced the deprecation of asm.js, a low-level subset of JavaScript that enabled near-native performance in the browser. This move signals the end of support for asm.js in Firefox, with the technology being superseded by WebAssembly. This deprecation marks a significant milestone in web platform evolution, as asm.js was a pioneering technology that proved high-performance applications like Figma could run in the browser. It also highlights the industry's full transition to WebAssembly, which offers better performance and smaller bundle sizes. Asm.js was a strict subset of JavaScript that allowed ahead-of-time optimization, but it required parsing as JavaScript, leading to larger bundle sizes compared to WebAssembly. WebAssembly, now widely supported, provides a binary format that is faster to decode and more compact, making asm.js largely obsolete.
+Meta has blocked human rights accounts from reaching audiences in Arabia and the UAE, effectively censoring content related to human rights issues in the region. This raises serious concerns about censorship and the power of social media platforms to control information flow, particularly in regions with limited press freedom. It highlights the tension between corporate profit motives and societal responsibility. The blocking affects accounts focused on human rights advocacy, preventing their content from being visible to users in Saudi Arabia and the UAE. Meta has not provided a detailed explanation for the action.
 
-hackernews · eqrion · May 20, 12:01 · [Discussion](https://news.ycombinator.com/item?id=48206340)
+hackernews · giuliomagnifico · May 20, 12:43 · [Discussion](https://news.ycombinator.com/item?id=48206768)
 
-**Background**: Asm.js was introduced by Mozilla in 2013 as a compilation target for languages like C and C++ using Emscripten, enabling near-native performance in the browser. It was a key precursor to WebAssembly, which became a standard in 2017 and is now supported by all major browsers. SpiderMonkey is Mozilla's JavaScript and WebAssembly engine used in Firefox.
+**Background**: Social media platforms like Meta use algorithms and content moderation policies that can restrict content based on local laws or business interests. In the Middle East, governments often pressure platforms to suppress dissenting voices, and platforms may comply to maintain market access.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Asm.js">Asm.js</a></li>
-<li><a href="https://en.wikipedia.org/wiki/SpiderMonkey_(Javascript_engine)">SpiderMonkey (Javascript engine)</a></li>
-<li><a href="https://spidermonkey.dev/">Home | SpiderMonkey JavaScript /WebAssembly Engine</a></li>
+**Discussion**: Commenters expressed frustration with Meta's prioritization of profit over societal good, with some noting the irony that social media was once seen as a tool for spreading democracy. Others criticized the headline for referring to 'Arabia' instead of 'Saudi Arabia'.
 
-</ul>
-</details>
-
-**Discussion**: Community comments express mixed feelings: some recall asm.js's historical importance, such as Figma's use of it to prove browser-based design tools were viable. Others raise concerns about WebAssembly's limitations, including its isolation from JavaScript APIs and lack of zero-copy buffer sharing, suggesting asm.js still had niche advantages.
-
-**Tags**: `#asm.js`, `#WebAssembly`, `#SpiderMonkey`, `#web performance`, `#JavaScript`
+**Tags**: `#censorship`, `#social media`, `#Meta`, `#human rights`, `#tech policy`
 
 ---
 
 <a id="item-5"></a>
-## [C's Ubiquitous Undefined Behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html) ⭐️ 8.0/10
+## [Qwen3.7-Max: New Proprietary Model with SOTA Non-Hallucination](https://qwen.ai/blog?id=qwen3.7) ⭐️ 8.0/10
 
-A blog post titled 'Everything in C is undefined behavior' lists surprising examples of undefined behavior (UB) in C, sparking extensive community discussion. This discussion highlights the pervasive and often misunderstood nature of UB in C, which can lead to compiler optimizations that silently break code. It matters for all C programmers, as UB can cause subtle bugs and portability issues. The article barely scratches the surface, as noted by commenters; for example, reading a volatile variable twice in a printf argument list is UB due to unsequenced side effects. Additionally, an unaligned pointer itself is UB, not just dereferencing it.
+Alibaba's Qwen team released Qwen3.7-Max, a proprietary large language model claiming state-of-the-art non-hallucination rates, outperforming models like Opus 4.7, Gemini 3.1 Pro, and GPT-5.5 on the AA-omniscience benchmark. This model pushes the frontier of agent trustworthiness by reducing hallucinations, a critical barrier to deploying AI agents in production. However, its proprietary nature and lack of open release may limit adoption and community trust. The Max variant is text-only and does not support image input; vision tasks require the Plus-Preview variant. API usage routes through Alibaba Cloud DashScope, subject to Chinese data sovereignty laws, and free tier rate limits are undisclosed.
 
-hackernews · lycopodiopsida · May 20, 06:07 · [Discussion](https://news.ycombinator.com/item?id=48203698)
+hackernews · kevinsimper · May 20, 10:35 · [Discussion](https://news.ycombinator.com/item?id=48205626)
 
-**Background**: Undefined behavior (UB) in C means the language specification imposes no requirements on the program's behavior; compilers may assume UB never occurs and optimize accordingly. Common examples include signed integer overflow, null pointer dereference, and array out-of-bounds access. The C standard intentionally leaves many constructs undefined to allow compiler optimizations and platform flexibility.
+**Background**: Large language models often generate plausible but incorrect information, known as hallucinations, which undermines trust in AI agents. Non-hallucination rate measures how often a model avoids such fabrications. Proprietary models like Qwen3.7-Max are not openly released, raising concerns about reproducibility and vendor lock-in.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Undefined_behavior">Undefined behavior - Wikipedia</a></li>
-<li><a href="https://blog.regehr.org/archives/213">A Guide to Undefined Behavior in C and C++, Part 1 – Embedded in Academia</a></li>
-<li><a href="http://en.cppreference.com/w/c/language/behavior.html">Undefined behavior - cppreference.com</a></li>
+<li><a href="https://artificialanalysis.ai/models/qwen3-7-max">Qwen3.7 Max - Intelligence, Performance & Price Analysis</a></li>
+<li><a href="https://www.buildfastwithai.com/blogs/qwen3-7-max-preview-alibaba-2026">Qwen3.7 Max Preview: Arena Ranks, Features & What's Next</a></li>
+<li><a href="https://arxiv.org/html/2603.14987v1">Beyond Benchmark Islands: Toward Representative Trustworthiness ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters generally agree that the article's examples are valid but note it barely scratches the surface; they provide more extreme cases like volatile causing UB in printf. Some argue the article's sensationalism may mislead novices, while others humorously describe the five stages of learning about UB: denial, anger, bargaining, depression, and acceptance.
+**Discussion**: Community comments are mixed: some praise the model's performance and cost-effectiveness, while others express concerns about its proprietary nature and data sovereignty. One user suggests adding verification artifacts after external actions to improve agent trustworthiness.
+
+**Tags**: `#AI`, `#LLM`, `#Qwen`, `#proprietary model`, `#agents`
+
+---
+
+<a id="item-6"></a>
+## [130M Europeans to Switch to Sovereign Payment Wero by 2026](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html) ⭐️ 8.0/10
+
+The European Payments Initiative (EPI) announced that its sovereign payment system Wero will be adopted by 130 million Europeans by 2026, replacing Visa and Mastercard for many transactions. Wero launched on July 2, 2024, and already operates in Belgium, France, and Germany. This shift reduces Europe's reliance on non-European payment infrastructure, enhancing financial sovereignty and data privacy. It also creates a unified digital wallet across the EU, simplifying cross-border payments for consumers and merchants. Wero moves money directly between bank accounts in seconds, using phone numbers for identification, and is available 24/7. It replaced national systems like iDEAL (Netherlands), Paylib (France), and Giropay (Germany).
+
+hackernews · healsdata · May 20, 13:02 · [Discussion](https://news.ycombinator.com/item?id=48207004)
+
+**Background**: Currently, most European card payments rely on US-based networks Visa and Mastercard, which charge fees and control transaction data. Wero is a bank-owned, EU-governed alternative that aims to keep payment data within Europe and reduce costs for merchants. The system is built on instant payment rails and is being rolled out gradually across the EU.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Wero_(payment)">Wero (payment) - Wikipedia</a></li>
+<li><a href="https://stripe.com/resources/more/wero-how-europes-unified-digital-wallet-is-changing-payments">Wero payments: What businesses should know | Stripe</a></li>
+<li><a href="https://thepaypers.com/payments/expert-views/europe-is-building-its-sovereign-payments-system-and-2026-is-the-turning-point">Europe 's sovereign payments system reaches its... | The Paypers</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters praised Wero as an EU-wide version of the Dutch iDeal system, highlighting its security and convenience. Some expressed concerns about complexity similar to telco cloud failures, while others noted geopolitical benefits like avoiding US surveillance of transaction history.
+
+**Tags**: `#payments`, `#EU`, `#sovereignty`, `#fintech`, `#privacy`
+
+---
+
+<a id="item-7"></a>
+## [Mozilla Deprecates Asm.js, Urges Migration to WebAssembly](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html) ⭐️ 8.0/10
+
+Mozilla announced the deprecation of asm.js, a JavaScript subset for high-performance web applications, citing its obsolescence in favor of WebAssembly (WASM). This marks the end of an era for web performance, as asm.js was a key technology that enabled near-native speeds in browsers and paved the way for WebAssembly. Developers relying on asm.js must now migrate to WASM for continued support. Asm.js was a strict subset of JavaScript optimized for ahead-of-time compilation, used by tools like Emscripten to compile C/C++ code for the web. WebAssembly offers a more efficient binary format, faster parsing, and better performance.
+
+hackernews · eqrion · May 20, 12:01 · [Discussion](https://news.ycombinator.com/item?id=48206340)
+
+**Background**: Asm.js was introduced by Mozilla in 2013 as a response to Google's NaCl and PNaCl, aiming to bring near-native performance to the web. It allowed code from languages like C and C++ to run efficiently in browsers by restricting JavaScript to a subset that could be heavily optimized. However, WebAssembly, a joint effort by major browser vendors, emerged as a successor with a binary format that is faster to load and parse. Mozilla's deprecation signals the final step in the transition from asm.js to WASM.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Asm.js">Asm.js</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Games/Tools/asm.js">asm.js - Game development | MDN</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WebAssembly">WebAssembly - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters expressed mixed feelings: some noted asm.js's historical significance (e.g., Figma's early use), while others debated its continued relevance. One commenter argued that WASM's isolation from JavaScript APIs and lack of zero-copy buffers make asm.js still attractive for certain use cases. Another pointed out the challenge of migrating legacy Emscripten projects.
+
+**Tags**: `#asm.js`, `#WebAssembly`, `#Mozilla`, `#web performance`, `#JavaScript`
+
+---
+
+<a id="item-8"></a>
+## [C's Undefined Behavior: More Pervasive Than You Think](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html) ⭐️ 8.0/10
+
+A blog post titled 'Everything in C is undefined behavior' highlights numerous surprising undefined behaviors (UB) in C, such as volatile reads and unaligned pointer casts, sparking a high-engagement discussion on Hacker News. This matters because C remains foundational in systems programming, and misunderstanding UB can lead to subtle, hard-to-find bugs. The discussion underscores the need for developers to deeply understand UB to write reliable and portable code. The article notes that even reading a volatile variable is a side effect per the C standard, making certain expressions with multiple volatile reads UB. Additionally, an unaligned pointer itself is UB, not just dereferencing it, which can affect pointer casts.
+
+hackernews · lycopodiopsida · May 20, 06:07 · [Discussion](https://news.ycombinator.com/item?id=48203698)
+
+**Background**: Undefined behavior (UB) in C means the language specification imposes no requirements on the program's behavior; anything can happen, including crashes or silent data corruption. The volatile qualifier tells the compiler that a variable may change unexpectedly, preventing optimizations, but its access counts as a side effect. Memory alignment requires that data be stored at addresses divisible by its size; misaligned pointers can cause hardware faults on some architectures.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Undefined_behavior">Undefined behavior - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Volatile_(computer_programming)">volatile (computer programming) - Wikipedia</a></li>
+<li><a href="https://stackoverflow.com/questions/41719845/memory-alignment-in-c-c">Memory Alignment in C / C ++ - Stack Overflow</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters expanded on the article's examples, noting that volatile reads in the same expression are unsequenced side effects causing UB, and that unaligned pointer casts are UB even without dereferencing. One user humorously described the five stages of learning about UB: denial, anger, bargaining, depression, and acceptance. Another argued that the article's examples are not inherently UB but depend on input, similar to stack overflow in any language, and criticized the sensationalism.
 
 **Tags**: `#C`, `#undefined behavior`, `#programming languages`, `#compilers`
 
 ---
 
-<a id="item-6"></a>
-## [Google Launches Gemini 3.5 Flash with 3x Price Hike](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) ⭐️ 8.0/10
+<a id="item-9"></a>
+## [Anna's Archive Hit with $19.5M Default Judgment and Domain Takedown](https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/) ⭐️ 8.0/10
 
-Google has released Gemini 3.5 Flash, a new AI model that is generally available today, featuring a significant price increase to $1.50 per million input tokens and $9.00 per million output tokens. This marks a notable pricing shift for Google's Flash series, with a 3x increase over the previous Gemini 3 Flash, positioning it closer to premium models like Gemini 2.5 Pro and sparking community debate about its value proposition. The model achieves over 280 output tokens per second, about 70% faster than Gemini 3 Flash, and scores 76.2% on Terminal-Bench 2.1, surpassing Gemini 3.1 Pro on coding and agent tasks.
-
-hackernews · Google AI Blog · May 19, 17:43 · [Discussion](https://news.ycombinator.com/item?id=48196570)
-
-**Background**: Gemini 3.5 Flash is a natively multimodal reasoning model in Google's Gemini 3 series, designed to balance quality, cost, and latency through adjustable thinking levels. It is served on TPU 8i hardware, which constrains its parameter count and memory footprint.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://llm-stats.com/blog/research/gemini-3.5-flash-launch">Gemini 3.5 Flash: Benchmarks, Pricing, and Complete Specs</a></li>
-<li><a href="https://artificialanalysis.ai/articles/gemini-3-5-flash-everything-you-need-to-know">Gemini 3.5 Flash: The new leader in intelligence versus speed</a></li>
-<li><a href="https://www.techtimes.com/articles/316861/20260519/google-ships-gemini-35-flash-cheap-run-agent-model-that-costs-3x-more-per-token.htm">Google Ships Gemini 3.5 Flash, a Cheap-to-Run Agent Model That Costs 3x More Per Token</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community members inferred the model's parameter count based on TPU 8i constraints, noting the price increase is unprecedented for a same-sized model. Some users shared benchmark results showing Gemini 3.5 Flash uses fewer tokens than Gemini 3.1 Pro for similar tasks, while others highlighted hallucinations in audio outputs.
-
-**Tags**: `#AI`, `#Google`, `#Gemini`, `#LLM`, `#pricing`
-
----
-
-<a id="item-7"></a>
-## [Virtual Museum Showcases Nearly Every Operating System](https://virtualosmuseum.org/) ⭐️ 8.0/10
-
-A virtual museum has been launched at virtualosmuseum.org, featuring an extensive collection of operating systems from various eras, accessible via emulation in a web browser. This project provides a unique educational resource for retro computing enthusiasts and historians, preserving the history of operating systems in an interactive format. The museum includes many rare and historically significant systems, but some entries show the 'last, greatest' version rather than the most interesting or representative one, as noted by community members.
-
-hackernews · andreww591 · May 19, 15:53 · [Discussion](https://news.ycombinator.com/item?id=48195009)
-
-**Background**: Operating systems are the core software that manage computer hardware and software resources. Emulation allows modern computers to run software from older systems, making it possible to experience historical OSes without original hardware.
-
-**Discussion**: Community members praised the curation effort but pointed out missing systems like Pick, CTOS, and OS/400, and noted that some versions shown are not the most historically interesting. There was also discussion about the feasibility of emulating certain rare systems.
-
-**Tags**: `#operating systems`, `#virtual museum`, `#retro computing`, `#emulation`, `#history`
-
----
-
-<a id="item-8"></a>
-## [Anna's Archive Hit with $19.5M Default Judgment and Domain Seizure](https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/) ⭐️ 8.0/10
-
-A U.S. court issued a $19.5 million default judgment against Anna's Archive and ordered a global takedown of its domain names for copyright infringement. This ruling could set a precedent for legal actions against shadow libraries, impacting access to knowledge and the training data used by AI companies. The default judgment was entered because the operators of Anna's Archive did not appear in court; the order also requires domain registrars worldwide to disable the site's domains.
+A U.S. court issued a $19.5 million default judgment against Anna's Archive and ordered a global takedown of its domains, following a lawsuit by major publishers. This ruling sets a precedent for aggressive copyright enforcement against shadow libraries, and raises questions about AI companies that relied on such archives for training data without facing similar consequences. The default judgment was entered because Anna's Archive did not appear in court; the order targets domain registrars worldwide to disable the site's domains. The site remains accessible via alternative domains and IPFS.
 
 hackernews · iamnothere · May 20, 12:30 · [Discussion](https://news.ycombinator.com/item?id=48206640)
 
-**Background**: Anna's Archive is an open-source metasearch engine for shadow libraries like Library Genesis and Sci-Hub, providing access to millions of books and papers. It emerged after the 2022 crackdown on Z-Library. The site operates anonymously and is believed to be hosted in Russia.
+**Background**: Anna's Archive is a metasearch engine for shadow libraries like Z-Library, Sci-Hub, and Library Genesis, providing free access to millions of books and papers. Shadow libraries host copyrighted content without authorization, often facing legal challenges from publishers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Anna's_Archive">Anna ' s Archive - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anna's_Archive">Anna's Archive - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Shadow_library">Shadow library - Wikipedia</a></li>
+<li><a href="https://rbfirehose.com/2026/05/14/torrentfreak-publishers-seek-19-5-million-and-domain-takedown-order-against-annas-archive/">TorrentFreak: Publishers Seek $19.5 Million and Domain Takedown ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters question why LLM companies that used Anna's Archive data face no consequences, and note the jurisdictional overreach of a U.S. court ordering a global domain takedown. Some believe the operators are safe in Russia and will continue operations.
+**Discussion**: Commenters expressed frustration that AI companies benefiting from Anna's Archive face no legal repercussions, while others questioned the jurisdictional reach of a U.S. court ordering a takedown in Greenland. Some noted the tension between global humanitarian good and copyright law.
 
-**Tags**: `#copyright`, `#legal`, `#piracy`, `#digital archives`, `#AI training data`
+**Tags**: `#copyright`, `#shadow library`, `#AI training data`, `#legal`, `#piracy`
 
 ---
 
-<a id="item-9"></a>
-## [Google to Deprecate Gemini CLI, Replace with Antigravity CLI](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/) ⭐️ 8.0/10
+<a id="item-10"></a>
+## [Virtual Museum Showcases Nearly Every Operating System](https://virtualosmuseum.org/) ⭐️ 8.0/10
 
-Google announced that Gemini CLI will stop working on June 18, 2026, and will be replaced by Antigravity CLI, which is currently not feature-complete and is closed-source. This move undermines developer trust in Google's tools, as it deprecates an open-source tool for a closed-source alternative that lacks feature parity, potentially driving developers away from Google's ecosystem. Gemini CLI was open-sourced under Apache 2.0, while Antigravity CLI's repository only contains a README and an animated demo. The transition is scheduled for June 18, 2026, giving developers limited time to adapt.
+A new virtual museum, the Virtual OS Museum, has been launched, offering emulated versions of a vast collection of historical operating systems accessible via a single Linux VM for QEMU, VirtualBox, or UTM. This project provides an unprecedented, curated resource for tech historians, educators, and enthusiasts to explore and interact with rare and influential operating systems, preserving digital heritage and enabling hands-on learning. The museum is implemented as a single Linux VM with bundled emulators and one-click launchers for Windows and Linux, but some commenters note that certain versions displayed may not be the most historically interesting or accurate.
 
-hackernews · primaprashant · May 19, 18:03 · [Discussion](https://news.ycombinator.com/item?id=48196867)
+hackernews · andreww591 · May 19, 15:53 · [Discussion](https://news.ycombinator.com/item?id=48195009)
 
-**Background**: Gemini CLI is a command-line tool that allows developers to interact with Google's Gemini AI models for coding assistance. Antigravity CLI is a new tool that aims to bring agentic capabilities to the terminal, but it is not yet fully featured and is not open-source.
+**Background**: Operating system emulation allows modern computers to run software from older or different hardware platforms, preserving access to legacy systems. The Virtual OS Museum curates a wide range of OSes, from early mainframe systems to classic personal computer environments, all running under emulation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/google-antigravity/antigravity-cli">GitHub - google-antigravity/antigravity-cli · GitHub</a></li>
-<li><a href="https://antigravity.google/docs/cli-overview">Google Antigravity Documentation</a></li>
+<li><a href="https://virtualosmuseum.org/">The Virtual OS Museum</a></li>
+<li><a href="https://virtualosmuseum.org/readme/">The Virtual OS Museum - Help/README</a></li>
+<li><a href="https://virtualosmuseum.org/downloads/">The Virtual OS Museum - Downloads</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community is highly critical, with comments highlighting Google's pattern of killing developer tools, the lack of feature parity, and the confusing product strategy. Users express frustration that Antigravity CLI is not open-source and that the transition seems poorly planned.
+**Discussion**: The community praised the effort but raised concerns about curation accuracy, with some users noting that the 'last, greatest' versions shown may not be the most interesting. Others requested rare systems like Convergent Technologies CTOS, OS/400, and Tandem NonStop, highlighting the challenge of emulating certain platforms.
+
+**Tags**: `#operating systems`, `#virtual museum`, `#emulation`, `#tech history`, `#curation`
+
+---
+
+<a id="item-11"></a>
+## [Google Deprecates Gemini CLI, Replaces with Antigravity CLI](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/) ⭐️ 8.0/10
+
+Google announced that Gemini CLI will stop working on June 18, 2026, and will be replaced by Antigravity CLI, which currently lacks feature parity and is closed-source. This move erodes developer trust in Google's tools, as it continues a pattern of deprecating popular developer products, and the replacement's closed-source nature and missing features may drive users to competitors. Gemini CLI was open-source under Apache 2.0, while Antigravity CLI's repository only contains a README and an animated demo, with no source code. The transition is scheduled for June 18, 2026.
+
+hackernews · primaprashant · May 19, 18:03 · [Discussion](https://news.ycombinator.com/item?id=48196867)
+
+**Background**: Gemini CLI is a command-line interface tool that allows developers to interact with Google's Gemini AI model directly from the terminal. It was released as an open-source project. Antigravity CLI is a new, closed-source tool that Google positions as a more complete agent manager and IDE experience, but it currently does not support all Gemini CLI features.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/google-gemini/gemini-cli">GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal. · GitHub</a></li>
+<li><a href="https://cloud.google.com/blog/topics/developers-practitioners/choosing-antigravity-or-gemini-cli">Choosing Antigravity or Gemini CLI | Google Cloud Blog</a></li>
+<li><a href="https://antigravity.google/product/antigravity-cli">Antigravity CLI</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community expressed strong frustration, with users criticizing Google's pattern of killing developer tools, the confusing brand choice, and the shift from open-source to closed-source. Some noted that Antigravity CLI lacks feature parity and that the transition seems poorly planned.
 
 **Tags**: `#Google`, `#CLI`, `#deprecation`, `#developer tools`, `#open source`
 
 ---
 
-<a id="item-10"></a>
-## [Lessons from 130K Lines of Rust with AI Assistance](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html) ⭐️ 8.0/10
-
-A developer shared detailed learnings from building a 130,000-line Rust codebase using AI tools like Claude and Codex, emphasizing spec-driven development, automated review loops, and testing strategies. This provides practical insights into scaling AI-assisted development for complex systems, addressing common pain points like lifetime errors and testing density, which is valuable for the Rust community and AI-assisted coding practitioners. The codebase includes 1,300+ tests, averaging one test per 100 lines of code, which some commenters consider low for high-complexity code. The developer also automated a review loop where a second AI critiques the implementation spec until both agree.
-
-hackernews · pramodbiligiri · May 20, 10:04 · [Discussion](https://news.ycombinator.com/item?id=48205415)
-
-**Background**: Spec-driven development (SDD) is a methodology where a formal specification serves as the authoritative source before coding. Automated review loops involve AI agents critiquing each other's output to improve quality. Rust's ownership and lifetime system often challenges AI code generation, leading to excessive cloning or Rc usage.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://zfhuang99.github.io/rust/claude+code/codex/contracts/spec-driven+development/2025/12/01/rust-with-ai.html">Learnings from 100K Lines of Rust with AI | Cheng Huang’s corner</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Spec-driven_development">Spec - driven development - Wikipedia</a></li>
-<li><a href="https://github.com/hamelsmu/claude-review-loop">GitHub - hamelsmu/claude-review-loop: Claude Code plugin: automated code review loop with Codex · GitHub</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters debated testing density, with some arguing 1 test per 100 lines is insufficient for complex code. Others raised concerns about AI-generated lifetime errors and the reliability of AI-written tests. There was also discussion about the long-term viability of vibe-coded projects.
-
-**Tags**: `#Rust`, `#AI-assisted development`, `#spec-driven development`, `#testing`, `#large codebases`
-
----
-
-<a id="item-11"></a>
-## [Meta Blocks Human Rights Accounts in Arabia and UAE](https://www.alqst.org/ar/posts/1190) ⭐️ 7.0/10
-
-Meta has blocked human rights accounts from reaching audiences in Arabia and the UAE, as reported by Alqst on an unspecified date. This raises serious concerns about censorship and platform accountability, especially given Meta's dominant role in social media and the region's restrictive laws on free expression. The exact accounts and timing of the blocks are not specified, but the action aligns with Meta's history of over-relying on automated moderation that disproportionately flags Arabic content.
-
-hackernews · giuliomagnifico · May 20, 12:43 · [Discussion](https://news.ycombinator.com/item?id=48206768)
-
-**Background**: Meta operates in the Middle East under pressure to comply with local laws, which heavily monitor and censor social media. Studies show Meta's algorithms incorrectly flag Arabic extremist content 77% of the time, and the company provides little region-specific transparency.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.eff.org/deeplinks/2025/01/metas-new-content-policy-will-harm-vulnerable-users-if-it-really-valued-free">Meta’s New Content Policy Will Harm Vulnerable Users. If It Really Valued Free Speech, It Would Make These Changes | Electronic Frontier Foundation</a></li>
-<li><a href="https://www.ecdhr.org/platform-compliance-in-the-middle-east-how-opaque-content-moderation-enables-quiet-authoritarian-censorship/">Platform Compliance In The Middle East: How Opaque Content Moderation Enables Quiet Authoritarian Censorship - ECDHR</a></li>
-<li><a href="https://www.newamerica.org/oti/blog/flaws-content-moderation-system-middle-east-case-study/">The Flaws in the Content Moderation System: The Middle East Case Study</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Comments express skepticism about Meta's motives, with some arguing the company prioritizes profits over social good and others noting that platforms must follow local laws. A few comments are off-topic.
-
-**Tags**: `#censorship`, `#social media`, `#Meta`, `#human rights`, `#content moderation`
-
----
-
 <a id="item-12"></a>
-## [130M Europeans to Ditch Visa/Mastercard for Wero by 2026](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html) ⭐️ 7.0/10
+## [Mistral AI acquires Emmi AI for industrial engineering](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai) ⭐️ 8.0/10
 
-By 2026, 130 million Europeans will adopt Wero, a sovereign EU payment system that replaces Visa and Mastercard, enabling direct bank-to-bank transfers across borders. This shift reduces Europe's reliance on US-based card networks, enhancing financial sovereignty and lowering transaction costs for merchants and consumers. Wero launched in July 2024 and will expand to merchant payments in late 2025, supporting instant account-to-account payments via a digital wallet.
+Mistral AI has acquired Emmi AI, a startup specializing in AI for industrial engineering, with backing from ASML, a major investor in Mistral AI. This acquisition strengthens Mistral AI's position in the European enterprise AI market and creates a specialized AI stack for industrial engineering, a sector with high demand for simulation and optimization. Emmi AI has developed Noether, an open-source deep learning framework for engineering AI, and the acquisition aims to combine Mistral's large language models with Emmi's domain-specific tools.
 
-hackernews · healsdata · May 20, 13:02 · [Discussion](https://news.ycombinator.com/item?id=48207004)
+hackernews · doener · May 19, 19:14 · [Discussion](https://news.ycombinator.com/item?id=48197995)
 
-**Background**: Wero is a pan-European digital wallet and payment system developed by the European Payments Initiative (EPI), a consortium of major banks. It replaces fragmented local systems like iDEAL in the Netherlands and Giropay in Germany, offering a unified payment method across Europe.
+**Background**: Mistral AI is a French AI company founded in 2023, known for its open-weight large language models and a valuation over $14 billion as of 2025. ASML, a Dutch semiconductor equipment giant, is a key investor in Mistral AI, making the industrial focus credible.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Wero_(payment)">Wero (payment) - Wikipedia</a></li>
-<li><a href="https://europeanbusinessmagazine.com/europes-24-trillion-breakup-with-visa-and-mastercard/">Europe vs Visa & Mastercard: The $24 Trillion Payments Shift</a></li>
-<li><a href="https://stripe.com/resources/more/wero-how-europes-unified-digital-wallet-is-changing-payments">Wero payments: What businesses should know | Stripe</a></li>
+<li><a href="https://www.emmi.ai/">Emmi AI | Home</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mistral_AI">Mistral AI - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ASML">ASML</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters praised Wero as an EU-wide version of the Dutch iDeal system, highlighting its security benefits by avoiding card number entry on merchant sites. Some expressed concerns about interoperability between different national apps, while others noted the geopolitical importance of sovereign payments, citing examples like US scrutiny of Canadian cannabis transactions.
+**Discussion**: Community comments highlight Mistral's strong presence in European enterprise AI, with some questioning its competitiveness against major US players like OpenAI. The ASML investment is seen as a strategic advantage for industrial applications.
 
-**Tags**: `#payments`, `#EU`, `#fintech`, `#sovereignty`, `#banking`
+**Tags**: `#AI`, `#acquisition`, `#industrial engineering`, `#Mistral AI`, `#ASML`
 
 ---
 
 <a id="item-13"></a>
-## [FiveThirtyEight Archive Launched After Disney Removal](https://fivethirtyeightindex.com/) ⭐️ 7.0/10
+## [Lessons from 100K Lines of Rust with AI](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html) ⭐️ 8.0/10
 
-Ben Welsh launched FiveThirtyEightIndex.com, a site indexing archived FiveThirtyEight articles after Disney removed them from the internet. The archive aims to preserve thousands of articles that were taken offline following Disney's acquisition of ABC News. This event highlights the fragility of digital journalism under media consolidation, where corporate owners can erase entire archives. The archive provides a crucial resource for researchers and the public to access historical data-driven journalism. Many interactive visualizations, such as the gun deaths visualization, are broken in the archived versions. The site uses the Wayback Machine and other sources to preserve article text and static content.
+A developer published a detailed retrospective on using AI assistants (Claude and Codex) to build a 100K+ line Rust codebase, highlighting spec-driven development and automated critique workflows as key success factors. This provides practical, real-world evidence that AI-assisted development can scale to large Rust projects, addressing common concerns about AI's reliability with Rust's complex type system and lifetimes. The project includes over 1,300 tests across unit, integration, and multi-replica levels, and the author advocates for having one LLM critique another's implementation spec before coding begins.
 
-hackernews · ChocMontePy · May 20, 01:34 · [Discussion](https://news.ycombinator.com/item?id=48201973)
+hackernews · pramodbiligiri · May 20, 10:04 · [Discussion](https://news.ycombinator.com/item?id=48205415)
 
-**Background**: FiveThirtyEight was a data journalism website founded by Nate Silver, known for election forecasting. Disney acquired it in 2013 and later shut it down after acquiring ABC News, removing thousands of articles from the web. The Internet Archive's Wayback Machine is a digital library that preserves web pages, but interactive features often fail.
+**Background**: Spec-driven development (SDD) is a methodology where a formal specification serves as the authoritative source of truth before coding. Vibe coding, coined by Andrej Karpathy in 2025, refers to AI-assisted programming where developers accept AI-generated code without thorough review. The combination of SDD and automated critique aims to mitigate the risks of vibe coding.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Media_consolidation">Media consolidation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Spec-driven_development">Spec-driven development</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Vibe_coding">Vibe coding</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters debated Nate Silver's role, with some arguing he benefited financially from the sale and then regained readers on his personal site. Others noted the loss of interactive visualizations and the importance of digital preservation.
+**Discussion**: Commenters noted that AI often produces lifetime errors in Rust, leading to overuse of .clone() and Rc, which undermines idiomatic Rust. Others questioned the test density (1 test per 100 LOC) and whether the author had personally reviewed all AI-generated tests. There was also curiosity about the project's real-world adoption.
 
-**Tags**: `#digital preservation`, `#media consolidation`, `#FiveThirtyEight`, `#archiving`, `#journalism`
+**Tags**: `#Rust`, `#AI-assisted development`, `#software engineering`, `#spec-driven development`, `#vibe coding`
 
 ---
 
 <a id="item-14"></a>
-## [Students Boo AI-Praising Commencement Speakers](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role) ⭐️ 7.0/10
+## [Google fights manipulation of AI search results](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results) ⭐️ 7.0/10
 
-College students at multiple U.S. universities have booed and heckled commencement speakers who praised artificial intelligence, with one speaker telling students to 'deal with it' in response. This backlash signals a growing generational divide, where young adults entering the job market actively reject optimistic AI narratives pushed by older tech leaders, potentially influencing public discourse and corporate messaging. Eric Schmidt's speech was particularly criticized for its condescending tone, and Tennessee State University's speaker told students to 'deal with it' as they jeered. The incidents reflect a broader skepticism among students about AI's impact on jobs and society.
+Google is quietly combating attempts to manipulate its AI-generated search overviews, similar to traditional SEO but targeting AI summaries. The BBC reports that bad actors are exploiting AI overviews to inject false information, such as fake contest winners or misleading health claims. This marks a new frontier in search manipulation, as AI overviews become a prime target for spreading misinformation. If left unchecked, it could erode trust in Google's AI-powered search results and affect users' decisions on health, finance, and more. The article highlights a manipulated query for a fictional "2026 South Dakota International Hot Dog Eating Champion" as an example. Community member simonw demonstrated a real exploit where a query about a whale in Half Moon Bay still returns his manipulated AI summary from 2024.
 
-hackernews · iancmceachern · May 20, 11:51 · [Discussion](https://news.ycombinator.com/item?id=48206241)
+hackernews · tigerlily · May 20, 10:57 · [Discussion](https://news.ycombinator.com/item?id=48205782)
 
-**Background**: Commencement speeches are traditionally optimistic, but recent advances in generative AI have raised concerns about job displacement and ethical issues. Many students entering the workforce fear AI will devalue their degrees and reduce opportunities.
+**Background**: Google's AI Overviews generate concise answers at the top of search results using large language models. Similar to how SEO optimizes content for traditional search rankings, bad actors now try to influence AI summaries by planting misleading content on the web. This practice is sometimes called "AI overview poisoning" or "generative engine optimization."
 
-**Discussion**: Commenters largely supported the students, with one noting that GenAI is the first technology actively rejected by young adults while being pushed by those over 55. Another remarked that Eric Schmidt's condescending tone alone deserved the booing, and a third simply said 'The kids are alright.'
+<details><summary>References</summary>
+<ul>
+<li><a href="https://searchengineland.com/google-ai-overviews-growing-spam-problem-455402">There is a growing spam problem in Google AI Overviews</a></li>
+<li><a href="https://www.techbuzz.ai/articles/google-s-ai-overviews-now-serving-up-scams-to-users">Google's AI Overviews Now Serving Up Scams to... | The Tech Buzz</a></li>
 
-**Tags**: `#AI`, `#education`, `#public opinion`, `#technology backlash`
+</ul>
+</details>
+
+**Discussion**: Commenters generally agree this is the next phase of SEO, with one noting it will be an endless cat-and-mouse game. Some expressed relief that the examples were niche, but others wanted more concrete evidence of manipulation in sensitive areas like health or finance. A user demonstrated a persistent exploit from 2024, showing the issue is real.
+
+**Tags**: `#AI`, `#security`, `#SEO`, `#Google`, `#search`
 
 ---
 
 <a id="item-15"></a>
-## [Infomaniak Transfers Control to Foundation for Data Privacy](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/) ⭐️ 7.0/10
+## [Curated Index of Archived FiveThirtyEight Articles](https://fivethirtyeightindex.com/) ⭐️ 7.0/10
 
-Infomaniak, a Swiss cloud provider, has transferred the majority of its voting rights to a Swiss public-benefit foundation, ensuring its long-term commitment to data privacy and independence from US tech infrastructure. This move strengthens European digital sovereignty by locking in privacy and independence at the governance level, setting a precedent for other cloud providers. It reassures customers that Infomaniak's values will persist beyond its founder's tenure. The foundation will enforce a Shareholding Charter that mandates sovereignty, sustainability, privacy, and local roots, with an annual public impact report. Infomaniak remains Switzerland's largest cloud company, offering services like kSuite.
+Ben Welsh created FiveThirtyEightIndex.com, a curated index of archived FiveThirtyEight articles, after Disney removed thousands of articles from the internet. This index helps preserve data journalism history and ensures public access to FiveThirtyEight's analytical work, highlighting the fragility of digital media under corporate ownership. Many interactive visualizations, such as the gun deaths visualization and P-hacking interactive, are broken in the archived versions. The index relies on the Internet Archive's Wayback Machine.
 
-hackernews · darktoto · May 20, 05:43 · [Discussion](https://news.ycombinator.com/item?id=48203536)
+hackernews · ChocMontePy · May 20, 01:34 · [Discussion](https://news.ycombinator.com/item?id=48201973)
 
-**Background**: Infomaniak is a Swiss cloud provider known for its focus on privacy and sustainability. A foundation model, similar to IKEA's structure, separates ownership from control to protect long-term mission. This contrasts with typical corporate structures where profit motives can override user privacy.
+**Background**: FiveThirtyEight was a data journalism website founded by Nate Silver, known for election forecasts and statistical analysis. In 2023, Disney, which owned ABC News and FiveThirtyEight, removed thousands of articles from the site, effectively erasing much of its archive. The Internet Archive is a non-profit digital library that preserves web pages through its Wayback Machine.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/">Infomaniak secures its independence and its DNA for the long ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Infomaniak">Infomaniak - Wikipedia</a></li>
-<li><a href="https://pressat.co.uk/releases/european-digital-sovereignty-infomaniaks-founder-transfers-control-of-his-company-to-a-foundation-b0e9bc3c504481bbb3d2fc5af8b878e7/">European digital sovereignty: Infomaniak's founder transfers ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a></li>
+<li><a href="https://www.natesilver.net/p/disney-erased-fivethirtyeight">Disney erased FiveThirtyEight - by Nate Silver</a></li>
+<li><a href="https://nypost.com/2026/05/15/media/nate-silver-blasts-ex-bosses-at-abc-for-deleting-fivethirtyeight-archives-bunch-of-a-holes/">Nate Silver blasts ex-bosses at ABC for deleting FiveThirtyEight ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments are largely positive, with users sharing migration experiences and praising Infomaniak's service quality and documentation. One user noted the title's confusion with AI 'foundation models', while another drew parallels to IKEA's governance structure.
+**Discussion**: Commenters noted the irony that Nate Silver sold FiveThirtyEight and now benefits from the deletion as readers flock to his personal site. Some expressed sadness that interactive visualizations are lost, while others appreciated the archiving effort.
 
-**Tags**: `#privacy`, `#cloud`, `#data sovereignty`, `#foundation model`, `#Infomaniak`
+**Tags**: `#archiving`, `#journalism`, `#data`, `#media`, `#internet`
 
 ---
 
 <a id="item-16"></a>
-## [Remove-AI-Watermarks: Tool to Strip AI Watermarks](https://github.com/wiltodelta/remove-ai-watermarks) ⭐️ 7.0/10
+## [Japan's Post-War Reforestation Blamed for Mass Hay Fever](https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan) ⭐️ 7.0/10
 
-A new open-source CLI and library called Remove-AI-Watermarks has been released on GitHub, enabling users to remove watermarks from AI-generated images, including those from Gemini, Midjourney, and other platforms. This tool reignites the debate on AI watermarking ethics, privacy, and trust, as it challenges the effectiveness of current watermarking techniques and raises concerns about misuse for disinformation. The tool uses image regeneration with SDXL to remove SynthID watermarks, which may degrade image quality and fail on high-resolution outputs (e.g., 4K). It only removes visible watermarks from Gemini, not the invisible SynthID.
+A BBC article reveals that Japan's 1950s reforestation project, which planted vast monocultures of sugi (cedar) and hinoki (cypress), is now causing widespread hay fever affecting millions of people. This story highlights how well-intentioned environmental policies can have unintended long-term consequences, affecting public health and the economy, and serves as a cautionary tale for other nations with similar reforestation efforts. The forests were meant to be gradually harvested and replanted, but cheap imports from countries like Malaysia made domestic logging uneconomical, leaving the trees to mature and release massive amounts of pollen.
 
-hackernews · janalsncm · May 19, 22:30 · [Discussion](https://news.ycombinator.com/item?id=48200569)
+hackernews · ranit · May 20, 01:43 · [Discussion](https://news.ycombinator.com/item?id=48202047)
 
-**Background**: AI watermarking is a technique used by companies like Google and OpenAI to embed metadata or visible markers in AI-generated content to indicate its origin. However, these watermarks have technical limitations and can be removed, sparking debates on their reliability and ethical implications.
+**Background**: After World War II, Japan faced severe deforestation and launched a massive reforestation program in the 1950s and 1960s, planting fast-growing sugi and hinoki trees for timber. However, economic shifts led to the abandonment of planned harvesting, allowing these trees to reach pollen-producing maturity. The resulting pollen allergy, known as kafunsho, now affects an estimated 40% of the Japanese population.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/Diffusion-Dynamics/watermark-segmentation">GitHub - Diffusion-Dynamics/watermark-segmentation: Open ...</a></li>
-<li><a href="https://www.rand.org/pubs/commentary/2024/01/the-case-for-and-against-ai-watermarking.html">The Case for and Against AI Watermarking | RAND</a></li>
-<li><a href="https://www.europarl.europa.eu/RegData/etudes/BRIE/2023/757583/EPRS_BRI(2023)757583_EN.pdf">Generative AI and watermarking - European Parliament</a></li>
+**Discussion**: Comments discuss parallels with German monoculture forests and note that the article lacks information on treatments. Some point out that the project was not inherently flawed but failed due to changing economic conditions.
 
-</ul>
-</details>
-
-**Discussion**: Community comments highlight diverse views: some argue that watermarking is futile against adversaries and advocate for digital signatures instead, while others see watermarks as useful for identifying AI content to ignore. Technical limitations are noted, such as the tool's inability to fully remove SynthID without quality loss.
-
-**Tags**: `#AI`, `#watermarking`, `#privacy`, `#open source`, `#image processing`
+**Tags**: `#environment`, `#history`, `#public health`, `#forestry`
 
 ---
 
 <a id="item-17"></a>
-## [Mistral AI acquires Emmi AI for industrial AI push](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai) ⭐️ 7.0/10
+## [College students boo AI-praising commencement speakers](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role) ⭐️ 7.0/10
 
-Mistral AI has acquired Austrian startup Emmi AI to create a leading AI stack for industrial engineering, with ASML as a key investor in Mistral. This acquisition strengthens Mistral's position in the European enterprise AI market and signals a strategic move into industrial AI, a sector with high growth potential. It also highlights the growing importance of physics-based AI models in manufacturing and engineering. Emmi AI specializes in physics-based industrial AI models for manufacturing, engineering, and automation. The acquisition amount was not disclosed, but ASML's involvement as an investor adds credibility to Mistral's industrial ambitions.
+At multiple U.S. college commencements, students booed and heckled speakers who praised AI's role in the future, with one speaker at Tennessee State University telling the audience to "deal with it." This backlash highlights a growing generational divide over AI, where young adults facing job displacement reject the optimistic narratives pushed by older tech leaders, signaling potential resistance to AI adoption in the workforce. The incidents occurred at Tennessee State University and other campuses, with Eric Schmidt's speech also criticized for its condescending tone. The booing reflects deep anxiety about AI replacing jobs before graduates even start their careers.
 
-hackernews · doener · May 19, 19:14 · [Discussion](https://news.ycombinator.com/item?id=48197995)
+hackernews · iancmceachern · May 20, 11:51 · [Discussion](https://news.ycombinator.com/item?id=48206241)
 
-**Background**: Mistral AI is a French AI company founded in 2023, known for its open-weight large language models and rapid growth, with a valuation over $14 billion as of 2025. ASML is a Dutch multinational that supplies photolithography machines to the semiconductor industry and is a key investor in Mistral. Industrial AI refers to the application of AI in manufacturing, engineering, and automation to improve efficiency and innovation.
+**Background**: Commencement speeches traditionally aim to inspire and motivate graduates. However, as AI technologies like generative AI advance, many young people fear automation will eliminate entry-level jobs, creating a stark contrast with the enthusiasm of older tech executives who promote AI as inevitable progress.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai">Mistral AI Acquires Emmi AI to Create the Leading AI Stack ...</a></li>
-<li><a href="https://techstartups.com/2026/05/19/mistral-ai-acquires-emmi-ai-to-expand-industrial-ai-push-across-europe/">Mistral AI acquires Emmi AI to expand industrial AI push ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mistral_AI">Mistral AI - Wikipedia</a></li>
+**Discussion**: Commenters expressed strong agreement with the students, noting that AI is the first technology actively rejected by young adults while being pushed by those over 55. They criticized speakers like Eric Schmidt for condescension and tone-deafness, arguing that commencement speeches should motivate, not threaten economic replacement.
 
-</ul>
-</details>
-
-**Discussion**: Community comments note that ASML's investment makes Mistral's industrial AI ambitions credible, and that Mistral is a key player in European enterprise AI, especially in Germany. Some users question Mistral's competitiveness against US giants like OpenAI, Google, and Anthropic.
-
-**Tags**: `#Mistral AI`, `#acquisition`, `#industrial AI`, `#European AI`, `#enterprise AI`
+**Tags**: `#AI ethics`, `#public perception`, `#generation gap`, `#job displacement`, `#commencement speech`
 
 ---
 
 <a id="item-18"></a>
-## [OpenAI Adopts Google's SynthID Watermark for AI Images](https://openai.com/index/advancing-content-provenance/) ⭐️ 7.0/10
+## [Remove-AI-Watermarks Tool Sparks Debate on Ethics and Privacy](https://github.com/wiltodelta/remove-ai-watermarks) ⭐️ 7.0/10
 
-OpenAI has integrated Google DeepMind's SynthID watermark into its AI image generation tools and launched a content provenance verification tool to help users identify AI-generated images. This move represents a major industry step toward standardizing AI content authentication, potentially influencing how platforms and users verify the origin of digital media. SynthID embeds an imperceptible watermark directly into image pixels, and OpenAI's verification tool checks for both SynthID and C2PA metadata. However, community reports suggest the watermark can be removed through techniques like pixel masking and inpainting.
+A new open-source CLI and library called Remove-AI-Watermarks has been released on GitHub, capable of removing both visible watermarks from Gemini and invisible watermarks like SynthID, C2PA, and EXIF metadata from AI-generated images. This tool challenges the effectiveness of current AI watermarking techniques, raising critical questions about digital provenance, content authenticity, and the balance between privacy and accountability in AI-generated media. The tool uses SDXL to regenerate images at low noise to remove SynthID watermarks, which may degrade image quality and fail on high-resolution outputs (e.g., 4K). It also strips C2PA and EXIF metadata, which are not robust watermarks but metadata-based provenance markers.
 
-hackernews · smooke · May 19, 19:34 · [Discussion](https://news.ycombinator.com/item?id=48198291)
+hackernews · janalsncm · May 19, 22:30 · [Discussion](https://news.ycombinator.com/item?id=48200569)
 
-**Background**: SynthID is a technology from Google DeepMind that watermarks AI-generated content by embedding digital watermarks directly into images, audio, text, or video. Content Credentials, based on the C2PA standard, provide metadata about the creation and editing history of media. These tools aim to combat misinformation by making AI-generated content more transparent.
+**Background**: AI watermarking embeds signals into AI-generated content to trace its origin. Visible watermarks are obvious overlays, while invisible watermarks like SynthID are imperceptible patterns detectable by algorithms. C2PA and EXIF are metadata standards that record provenance but can be easily stripped. The effectiveness of these techniques depends on their robustness against removal attempts.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openai.com/index/advancing-content-provenance/">Advancing content provenance for a safer, more ... - OpenAI</a></li>
-<li><a href="https://deepmind.google/models/synthid/">SynthID — Google DeepMind</a></li>
-<li><a href="https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/">Google's SynthID AI watermarking tech is being adopted by ...</a></li>
+<li><a href="https://github.com/wiltodelta/remove-ai-watermarks">GitHub - wiltodelta/remove-ai-watermarks: CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images · GitHub</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AI_content_watermarking">AI content watermarking - Wikipedia</a></li>
+<li><a href="https://huggingface.co/blog/watermarking">AI Watermarking 101: Tools and Techniques</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments are mixed: some users claim to have successfully removed SynthID using pixel masking and inpainting, while others argue that no reproducible removal method has been demonstrated. There is also concern about the watermark being an unwanted 'DRM glorp' for creative work.
+**Discussion**: Community comments are polarized: some argue the tool enables misuse by allowing fake images to be passed as real, while others defend it as a privacy tool against pervasive tracking. A notable viewpoint suggests that instead of relying on watermarks, the industry should adopt digital signatures to verify human involvement in content creation.
+
+**Tags**: `#AI`, `#watermarking`, `#privacy`, `#ethics`, `#open source`
+
+---
+
+<a id="item-19"></a>
+## [OpenAI Integrates Google's SynthID Watermark for AI Images](https://openai.com/index/advancing-content-provenance/) ⭐️ 7.0/10
+
+OpenAI has adopted Google's SynthID watermarking technology for AI-generated images and launched a verification tool to help users identify AI-generated content. This move marks a significant step toward standardizing content provenance across the AI industry, potentially making it harder to spread misinformation with AI-generated images. SynthID embeds an invisible digital watermark directly into image pixels without affecting quality, and the verification tool can detect the watermark even after common modifications like cropping or compression.
+
+hackernews · smooke · May 19, 19:34 · [Discussion](https://news.ycombinator.com/item?id=48198291)
+
+**Background**: Content provenance refers to the documented record of an asset's origin and transformations. SynthID, developed by Google DeepMind, is a family of watermarking tools for AI-generated images, video, text, and audio. OpenAI's adoption follows similar moves by other major AI companies like Nvidia.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://openai.com/index/advancing-content-provenance/">Advancing content provenance for a safer, more transparent... | OpenAI</a></li>
+<li><a href="https://deepmind.google/models/synthid/">SynthID — Google DeepMind</a></li>
+<li><a href="https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/">Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more - Ars Technica</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments reveal mixed reactions: some users claim to have found methods to remove the SynthID watermark, while others argue that no reproducible removal repo exists. There is also debate about the utility of metadata and concerns about unwanted DRM-like restrictions on creative work.
 
 **Tags**: `#AI`, `#watermarking`, `#content provenance`, `#OpenAI`, `#SynthID`
 
 ---
 
-<a id="item-19"></a>
-## [Allen AI Releases More Efficient OlmoEarth v1.1](https://huggingface.co/blog/allenai/olmoearth-v1-1) ⭐️ 7.0/10
-
-Allen AI has released OlmoEarth v1.1, a more efficient family of models for remote sensing, trained on the same dataset as v1 to isolate the effect of methodological improvements. This release advances understanding of scientific principles in pretraining models for remote sensing, potentially improving efficiency and performance in Earth observation tasks. OlmoEarth v1.1 uses stable latent image modeling and a novel self-supervised learning formulation designed for the Earth observation domain.
-
-rss · Hugging Face Blog · May 19, 18:38
-
-**Background**: OlmoEarth is a spatio-temporal, multimodal foundation model for Earth observation developed by the Allen Institute for AI. It employs self-supervised learning to analyze environmental data without requiring extensive labeled data. The v1.1 update focuses on methodological improvements to enhance model efficiency.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://huggingface.co/blog/allenai/olmoearth-v1-1">OlmoEarth v 1 . 1 : A more efficient family of models</a></li>
-<li><a href="https://arxiv.org/html/2511.13655v1">OlmoEarth : Stable Latent Image Modeling for Multimodal Earth ...</a></li>
-<li><a href="https://allenai.org/papers/olmoearth">OlmoEarth : StableLatentImageModeling</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#machine learning`, `#model efficiency`, `#AI research`, `#Hugging Face`
-
----
-
 <a id="item-20"></a>
-## [Map of Metal: Interactive Genre Visualization](https://mapofmetal.com/) ⭐️ 6.0/10
+## [OpenAI Launches Multi-Year Partnership with Singapore](https://openai.com/index/introducing-openai-for-singapore) ⭐️ 7.0/10
 
-The Map of Metal, an interactive visualization of metal music genres and subgenres originally built in Flash, has been ported to HTML5 and is now available on GitHub. This map provides a unique historical and stylistic overview of metal music, helping enthusiasts discover new genres and understand the evolution of metal. Its port to HTML5 ensures accessibility without Flash, preserving a niche cultural resource. The site was created in about one to two weeks by the developer and a friend, with the friend handling data and the developer coding. The HTML5 port retains the original Flash aesthetic.
+OpenAI announced a multi-year partnership with Singapore to expand AI deployment, build local talent, and support businesses and public services with AI. This partnership signals OpenAI's strategic expansion into Southeast Asia, potentially accelerating AI adoption in the region and setting a precedent for government-AI collaborations. The partnership is multi-year and focuses on deployment, talent development, and support for businesses and public services. Specific financial terms or project timelines were not disclosed.
 
-hackernews · robin_reala · May 20, 10:47 · [Discussion](https://news.ycombinator.com/item?id=48205699)
+rss · OpenAI Blog · May 19, 20:30
 
-**Background**: The Map of Metal is an interactive visualization that organizes metal music into genres and subgenres, showing connections and historical context. It was originally built in Adobe Flash, a technology that is now deprecated and not supported by modern browsers. Porting to HTML5 ensures the site remains functional and accessible.
+**Background**: Singapore has been actively positioning itself as a global AI hub, with initiatives like the National AI Strategy. OpenAI's partnership aligns with Singapore's goals to integrate AI into key sectors and develop a skilled workforce.
 
-**Discussion**: Community members expressed nostalgia and appreciation for the map, with some suggesting improvements like showing spiritual successors of bands. Others noted missing subgenres such as blackgaze and grey metal, and compared it to similar projects like Ishkur's Guide to Electronic Music.
-
-**Tags**: `#music`, `#visualization`, `#web development`, `#interactive`
+**Tags**: `#OpenAI`, `#AI partnership`, `#Singapore`, `#AI deployment`, `#talent development`
 
 ---
 
 <a id="item-21"></a>
-## [Japan's mass hay fever traced to 1950s reforestation project](https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan) ⭐️ 6.0/10
+## [OlmoEarth v1.1: More Efficient Earth Observation Models](https://huggingface.co/blog/allenai/olmoearth-v1-1) ⭐️ 7.0/10
 
-A BBC investigation reveals that Japan's severe hay fever epidemic, affecting 43% of the population, is directly linked to post-WWII monoculture plantations of sugi (cedar) and hinoki (cypress) trees planted in the 1950s and 1960s. This finding highlights how a well-intentioned reforestation policy has created a public health crisis, with pollen levels expected to remain high for decades. It underscores the long-term consequences of monoculture forestry and the need for ecosystem diversity. The trees were intended to be harvested gradually, but Japan's economic boom made imported wood cheaper, leaving the plantations untouched. Now, nearly all trees are over 30 years old, the age at which they produce the most pollen.
+OlmoEarth v1.1 introduces a more efficient family of Earth observation foundation models that reduce computational costs while maintaining or improving performance on downstream tasks. This advancement makes Earth AI more practical and scalable for real-world applications like urban planning, disaster response, and environmental monitoring, lowering the barrier for researchers and practitioners. The improvements include changes to the model architecture and training strategy that reduce both training and inference costs, while state-of-the-art results are maintained across a range of Earth observation tasks.
 
-hackernews · ranit · May 20, 01:43 · [Discussion](https://news.ycombinator.com/item?id=48202047)
+rss · Hugging Face Blog · May 19, 18:38
 
-**Background**: After World War II, Japan faced a timber shortage and launched a massive reforestation program, planting fast-growing sugi and hinoki across the country. These monoculture plantations were meant to be a temporary solution, but economic shifts led to their abandonment. The trees now release enormous amounts of pollen each spring, causing widespread hay fever.
+**Background**: Earth observation foundation models are large AI models pretrained on multimodal satellite data to perform tasks like land cover classification and change detection. OlmoEarth, developed by Ai2, is a family of such models that achieved state-of-the-art results. The v1.1 update focuses on efficiency without sacrificing accuracy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan">Japan is gripped by mass allergies. A 1950s project is to blame</a></li>
-<li><a href="https://englishnewsinlevels.com/news/level-2/japans-allergy-crisis-a-legacy-of-post-war-reforestation">Japan's Allergy Crisis: A Legacy of Post-War Reforestation ...</a></li>
-<li><a href="https://www.gccnews24.com/link-found-between-japan-hay-fever-crisis-and-1950s-forest-policy">Japan's 1950s Forestry Initiative Triggers Allergy Surge</a></li>
+<li><a href="https://allenai.org/blog/olmoearth-models">OlmoEarth: A new state-of-the-art Earth observation foundation model family | Ai2</a></li>
+<li><a href="https://allenai.org/papers/olmoearth_v1_1">OlmoEarth v1.1: A more efficient family of OlmoEarth models Team OlmoEarth</a></li>
+<li><a href="https://arxiv.org/abs/2511.13655">[2511.13655] OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters note that the article's title is misleading, as the plantations were intended to be temporary but were abandoned due to cheaper imports. Some compare this to similar monoculture issues in Germany, while others express surprise that the article does not discuss treatments or cures.
-
-**Tags**: `#environment`, `#public health`, `#history`, `#Japan`, `#allergies`
+**Tags**: `#Earth observation`, `#efficient models`, `#remote sensing`, `#AI/ML`
 
 ---
 
 <a id="item-22"></a>
-## [OpenAI Expands Education for Countries Initiative](https://openai.com/index/the-next-phase-of-education-for-countries) ⭐️ 6.0/10
+## [Interactive Map of Metal Music Genres Revived in HTML5](https://mapofmetal.com/) ⭐️ 6.0/10
 
-OpenAI announced the next phase of its Education for Countries initiative, including new partnerships and teacher training programs to accelerate AI adoption in schools. This expansion could help bridge the AI skills gap globally, especially in underserved regions, by equipping educators and students with AI tools and knowledge. The initiative focuses on partnerships with governments and educational institutions, along with teacher training to integrate AI into curricula effectively.
+The Map of Metal, originally a Flash-based interactive visualization of metal music subgenres, has been ported to HTML5 and remains accessible online, allowing users to explore the relationships between over 200 metal subgenres. This project preserves a unique cultural artifact from the Flash era and provides a nostalgic yet functional resource for metal fans to discover and understand the evolution of metal subgenres, fostering community discussion and engagement. The map was created in about two weeks by pjgalbraith and a friend, originally in Flash, and later ported to HTML5 to keep it alive. The code is available on GitHub, and the site retains its original Flash-like visual style.
 
-rss · OpenAI Blog · May 20, 00:00
+hackernews · robin_reala · May 20, 10:47 · [Discussion](https://news.ycombinator.com/item?id=48205699)
 
-**Background**: OpenAI's Education for Countries program aims to make AI education accessible worldwide. It builds on earlier efforts to provide resources and training for AI literacy in schools.
+**Background**: The Map of Metal is an interactive visualization that organizes metal music genres into a hierarchical, explorable map. It was originally built in Adobe Flash, a technology that was widely used for web animations and interactive content but has been deprecated in favor of modern web standards like HTML5.
 
-**Tags**: `#AI in Education`, `#OpenAI`, `#EdTech`, `#AI Adoption`
+**Discussion**: Commenters expressed nostalgia for the Flash era and appreciation for the HTML5 port. Some noted missing subgenres like blackgaze and grey metal, while others compared it to similar projects like Ishkur's Guide to Electronic Music.
+
+**Tags**: `#music`, `#visualization`, `#interactive`, `#metal`, `#web`
 
 ---
 
 <a id="item-23"></a>
-## [OpenAI Launches Multi-Year AI Partnership with Singapore](https://openai.com/index/introducing-openai-for-singapore) ⭐️ 6.0/10
+## [Qian Xuesen's Imprisonment: America's Strategic Blunder](https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen) ⭐️ 6.0/10
 
-OpenAI announced a multi-year partnership with Singapore to expand AI deployment, build local talent, and support businesses and public services with AI. This partnership signals OpenAI's strategic expansion into Southeast Asia, a key growth region for AI adoption, and could set a precedent for similar government collaborations. The partnership is multi-year and focuses on deployment, talent development, and supporting both businesses and public services, though specific financial terms or project milestones were not disclosed.
+An article argues that the U.S. imprisonment of Chinese rocket scientist Qian Xuesen in the 1950s was a strategic blunder that ultimately boosted China's aerospace program. This analysis highlights how a single U.S. decision may have inadvertently accelerated China's missile and space capabilities, affecting the global balance of power in aerospace technology. Qian Xuesen, co-founder of NASA's Jet Propulsion Laboratory, was accused of communist sympathies, stripped of security clearance, and placed under house arrest for five years before being deported to China in 1955.
 
-rss · OpenAI Blog · May 19, 20:30
+hackernews · danieltanfh95 · May 20, 13:19 · [Discussion](https://news.ycombinator.com/item?id=48207251)
 
-**Background**: OpenAI is a leading AI research organization known for developing advanced models like GPT-4. Singapore has been actively promoting AI adoption through its National AI Strategy, making it a natural partner for OpenAI's regional expansion.
-
-**Tags**: `#OpenAI`, `#Singapore`, `#AI partnership`, `#regional expansion`
-
----
-
-<a id="item-24"></a>
-## [llm-gemini 0.32 Adds Gemini 3.5 Flash Support](https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything) ⭐️ 6.0/10
-
-llm-gemini 0.32 has been released, adding support for the new Gemini 3.5 Flash model. This update allows users of the LLM command-line tool to access Google's latest Gemini 3.5 Flash model, which offers improved reasoning, coding, and multimodal capabilities at scale. The release only adds the gemini-3.5-flash model; no other changes are mentioned. The model is generally available and stable for production use.
-
-rss · Simon Willison · May 19, 23:46
-
-**Background**: LLM is a command-line tool by Simon Willison for interacting with large language models. llm-gemini is a plugin that provides access to Google's Gemini models. Gemini 3.5 Flash is the latest iteration in the Gemini 3 series, offering a balance of quality, cost, and latency with thinking levels.
+**Background**: Qian Xuesen was a leading aerospace engineer and cyberneticist who studied at MIT and Caltech, and contributed to early U.S. rocket research. During the Second Red Scare, he was targeted despite lack of evidence, and his deportation allowed him to become the 'Father of Chinese Rocketry,' leading China's missile and space programs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/simonw/llm-gemini">GitHub - simonw/llm-gemini: LLM plugin to access Google's Gemini family of models · GitHub</a></li>
-<li><a href="https://deepmind.google/models/model-cards/gemini-3-5-flash/">Gemini 3.5 Flash - Model Card — Google DeepMind</a></li>
-<li><a href="https://dev.to/googleai/gemini-35-flash-developer-guide-1i46">Gemini 3.5 Flash Developer Guide - DEV Community</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Qian_Xuesen">Qian Xuesen</a></li>
+<li><a href="https://aerospace.caltech.edu/about/legends-of-galcit/qian-xuesen-tsien-hsue-shen">Qian Xuesen (Tsien Hsue-Shen) - Aerospace Caltech - Lynn Booth & Kent Kresa Department of Aerospace</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#llm`, `#gemini`, `#release`
+**Discussion**: Commenters debate the strength of the article's claim, noting that many other factors contributed to China's aerospace success. Some suggest the article overstates Qian's individual impact, while others compare it to other historical strategic blunders.
+
+**Tags**: `#history`, `#aerospace`, `#geopolitics`
+
+---
+
+<a id="item-24"></a>
+## [Infomaniak Transfers Voting Rights to Foundation for Privacy](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/) ⭐️ 6.0/10
+
+Infomaniak, a Swiss cloud provider, has transferred the majority of its voting rights to a Swiss public-benefit foundation to secure its long-term independence and commitment to user data privacy. This move ensures that Infomaniak cannot be acquired or pressured to compromise on privacy, setting a precedent for other cloud providers to adopt similar governance models to protect user data. The foundation model is similar to the structure used by IKEA, where a foundation holds the controlling stake to prevent hostile takeovers. Infomaniak remains Switzerland's largest cloud computing company, offering services like kSuite.
+
+hackernews · darktoto · May 20, 05:43 · [Discussion](https://news.ycombinator.com/item?id=48203536)
+
+**Background**: Infomaniak started as a user group in 1990 and has grown into a major cloud provider focused on sustainability and privacy. By transferring voting rights to a foundation, the company ensures its governance cannot be altered by external shareholders, protecting its founding principles.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/">Infomaniak secures its independence and its DNA for the long term • Infomaniak</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Infomaniak">Infomaniak — Wikipédia</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48203536">Infomaniak transitions to a foundation model to protect user data privacy | Hacker News</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments are generally positive, with users praising Infomaniak's dedication to privacy and ethics. Some note the confusing use of "foundation model" in the title, given its AI connotations, while others draw parallels to IKEA's ownership structure.
+
+**Tags**: `#cloud`, `#privacy`, `#governance`, `#foundation`
+
+---
+
+<a id="item-25"></a>
+## [OpenAI Expands Education for Countries Program](https://openai.com/index/the-next-phase-of-education-for-countries) ⭐️ 6.0/10
+
+OpenAI announced the next phase of its Education for Countries program, including new partnerships and teacher training initiatives to accelerate AI adoption in schools globally. This expansion could significantly improve global learning outcomes by equipping educators with AI tools and training, potentially reducing the digital divide in education. The program focuses on partnerships with governments and educational institutions, along with teacher training to effectively integrate AI into classrooms.
+
+rss · OpenAI Blog · May 20, 00:00
+
+**Background**: OpenAI's Education for Countries program aims to make AI accessible in education systems worldwide. It builds on earlier efforts to provide AI tools and resources to underserved communities.
+
+**Tags**: `#AI in Education`, `#OpenAI`, `#EdTech`, `#AI Adoption`
 
 ---
